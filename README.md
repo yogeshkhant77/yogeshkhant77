@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me :
+Hi! I'm Yogesh Khant, a passionate MERN Stack Developer who loves creating dynamic, scalable, and user-centric web applications.
+
+I enjoy turning ideas into real-world projects using MongoDB, Express.js, React.js, and Node.js, building everything from responsive frontends to efficient backend systems. My goal is to craft clean, maintainable, and performance-driven code that delivers seamless user experiences.
 
 <!--
 **yogeshkhant77/yogeshkhant77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
