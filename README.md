@@ -6,7 +6,7 @@ I enjoy turning ideas into real-world projects using MongoDB, Express.js, React.
 linkedIn :https://www.linkedin.com/in/yogeshkhant19/
 portfolio :https://yogeshkhantprofile.vercel.app/
 
-##Tech Stack & Skills :
+## Tech Stack & Skills :
 Languages :
 #3776AB
 
