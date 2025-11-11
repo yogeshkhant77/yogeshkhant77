@@ -1,4 +1,4 @@
-## About Me :
+## About Me 
 Hi! I'm Yogesh Khant, a passionate MERN Stack Developer who loves creating dynamic, scalable, and user-centric web applications.
 
 I enjoy turning ideas into real-world projects using MongoDB, Express.js, React.js, and Node.js, building everything from responsive frontends to efficient backend systems. My goal is to craft clean, maintainable, and performance-driven code that delivers seamless user experiences.
@@ -6,7 +6,7 @@ I enjoy turning ideas into real-world projects using MongoDB, Express.js, React.
 linkedIn :https://www.linkedin.com/in/yogeshkhant19/
 portfolio :https://yogeshkhantprofile.vercel.app/
 
-## Tech Stack & Skills :
+## Tech Stack & Skills 
 Languages :
   Python
   C /C++
