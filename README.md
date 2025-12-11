@@ -19,6 +19,8 @@ Languages :
   Node.js
   React.js
   Express.js
+  Next.js
+  Tailwind CSS
 
   Databases:
    MySQL
