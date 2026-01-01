@@ -31,6 +31,13 @@ Languages :
    VS Code
    Jupyter Notebook
    Postman
+   Firebase
+   Jira
+
+   Soft Skills :
+   Communication skill
+   Problem Solving
+   Teamwork & Collaboration
 
 
  
